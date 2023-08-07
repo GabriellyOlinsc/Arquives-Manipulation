@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687269628 source:c:\users\gabri\onedrive\documentos\codebloks\trabalho_m3\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
